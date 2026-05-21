@@ -1,0 +1,77 @@
+
+> home@4.1.4 dev
+> vite --host --host 127.0.0.1
+
+Port 3000 is in use, trying another one...
+Port 3001 is in use, trying another one...
+
+  [32m[1mVITE[22m v4.5.14[39m  [2mready in [0m[1m378[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3002[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh[22m[2m to show help[22m
+[2m15:44:08[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+Port 3000 is in use, trying another one...
+[2m15:44:08[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3001[22m/[39m
+[2m15:48:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Hitokoto.vue, /src/components/Weather.vue[22m
+[2m16:04:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Links.vue[22m
+[2m16:04:44[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/SocialLinks.vue[22m
+[2m16:04:44[22m [36m[1m[vite][22m[39m [32m.env.example changed, restarting server...[39m
+[2m16:04:45[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:04:45[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m16:04:45[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:08:20[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m16:08:20[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:08:21[22m [36m[1m[vite][22m[39m [32m.env.example changed, restarting server...[39m
+[2m16:08:21[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:15:00[22m [36m[1m[vite][22m[39m [32m.env.example changed, restarting server...[39m
+[2m16:15:00[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:15:01[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m16:15:01[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:16:17[22m [36m[1m[vite][22m[39m [32m.env.example changed, restarting server...[39m
+[2m16:16:17[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:16:17[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m16:16:17[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:17:40[22m [36m[1m[vite][22m[39m [32m.env.example changed, restarting server...[39m
+[2m16:17:40[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:17:40[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m16:17:40[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:19:09[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m16:19:09[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:19:09[22m [36m[1m[vite][22m[39m [32m.env.example changed, restarting server...[39m
+[2m16:19:09[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m16:22:41[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+Port 3000 is in use, trying another one...
+[2m16:22:41[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3001[22m/[39m
+[2m16:22:41[22m [36m[1m[vite][22m[39m [32m.env.example changed, restarting server...[39m
+Port 3000 is in use, trying another one...
+[2m16:22:41[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3001[22m/[39m
